@@ -27,7 +27,7 @@ Pada penggunaan *tool* ini dapat langsung mengunjungi website Asana di https://a
 ### 2. Dashboard Asana
 Proses tahap pendaftaran sudah selesai, anda akan langsung masuk ke halaman dashboard Asana tepatnya pada ruang kerja proyek pertama yang telah dibuat.
 
-![alt text](https://github.com/ilhmainr/Asana-ProjectManagement/blob/main/image%20asana/asana%20home.png)
+![alt text](https://github.com/eribot12/Asana_ManPro/blob/main/image%20asana/Screenshot%202023-06-07%20003513.png)
 
 ### 3. Membuat proyek baru
 *   Untuk membuat proyek baru klik opsi "buat" pada *navbar*, kemudian klik opsi "project" dan "new project".
