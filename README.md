@@ -1,4 +1,4 @@
-# Asana_ManajemenProyek
+# Asana - Tool Manajemen Proyek
 > Eriyansyah Yusuf Suwandana - 19081010060
 
 ## Tentang Asana
