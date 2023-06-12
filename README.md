@@ -1,5 +1,5 @@
 # Asana_ManajemenProyek
-> Eriyansyah Yusuf S (19081010060)
+> Eriyansyah Yusuf Suwandana - 19081010060
 
 ## Tentang Asana
 Asana adalah sebuah platform aplikasi manajemen tugas dan proyek yang dirancang untuk membantu tim mengatur, mengoordinasikan, dan mengelola pekerjaan mereka. Asana dapat digunakan oleh tim dalam berbagai bidang dan industri untuk mengelola proyek, tugas harian, penugasan, dan kolaborasi tim.
@@ -51,12 +51,12 @@ Proses tahap pendaftaran sudah selesai, anda akan langsung masuk ke halaman dash
 *   Apabila proyek yang dikerjakan sudah selesai, anda dapat memberikan centang sebagai pertanda bahwa tugas tersebut telah diselesaikan.
 
 ## Pilihan Paket Asana
-### 1. Paket *basic*
+### 1. Paket *Basic*
 Paket *basic* Asana adalah paket gratis untuk tim dengan batas maksimal 15 pengguna. Tidak ada batasan jumlah tugas yang dapat dibuat atau banyak lampiran file tugasnya. Namun, Batasan utamanya untuk pengguna gratisan ini ialah tidak adanya akses fitur *timeline* atau *dashboard* tambahannya.
 
-### 2. Paket *premium*
+### 2. Paket *Premium*
 Paket *premium* merupakan paket berbayar menengah per bulan. Fitur yang ditawarkan di paket ini adalah *timeline*, *dashboard* khusus, *forms*, hingga panel kontrol admin untuk manajer.
 
-### 3. Paket *business*
+### 3. Paket *Business*
 Paket *business* merupakan paket tertinggi tarifnya dengan pembayaran per bulan. Pilihan paket ini diperuntukkan bagi kelompok yang perlu mengelola pekerjaan lintas inisiatif. Fitur yang ditawarkan dipaket ini diantaranya portofolio, *workload*, *proofing*, *lock* bagian tertentu, terintegrasi dengan Adobe Creative Cloud dan juga fitur otomatisasi penjadwalan tugas.
 
